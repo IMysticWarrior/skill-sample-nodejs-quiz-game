@@ -22,12 +22,12 @@
         {
           "name": "AnswerIntent",
           "samples": [
-            "{StateName}",
+            "{MyLife}",
             "{Capital}",
             "{StatehoodYear}",
             "{StatehoodOrder}",
             "{Abbreviation}",
-            "tell me about {StateName}",
+            "tell me about {MyLife}",
             "tell me about {Capital}",
             "tell me about {StatehoodYear}",
             "tell me about {StatehoodOrder}",
@@ -37,7 +37,7 @@
             "what do you know about {StatehoodYear}",
             "what do you know about {StatehoodOrder}",
             "what do you know about {Abbreviation}",
-            "{StateName} information",
+            "{MyLife} information",
             "{Capital} information",
             "{StatehoodYear} information",
             "{StatehoodOrder} information",
